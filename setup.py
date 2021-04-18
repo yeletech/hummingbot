@@ -79,6 +79,7 @@ def main():
         "hummingbot.strategy.cross_exchange_market_making",
         "hummingbot.strategy.pure_market_making",
         "hummingbot.strategy.perpetual_market_making",
+        "hummingbot.strategy.dyn_twap_trade",
         "hummingbot.templates",
         "hummingbot.wallet",
         "hummingbot.wallet.ethereum",
